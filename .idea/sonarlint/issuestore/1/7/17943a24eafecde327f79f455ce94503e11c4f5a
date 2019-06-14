@@ -1,0 +1,25 @@
+
+Msquid:S1066A"/Merge this if statement with the enclosing one.(é×ò™8Ê’Šş´-
+ksquid:S2095®"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¯8Ê’Šş´-
+°%squid:RedundantThrowsDeclarationCheckL"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(¦À«úÿÿÿÿ8Ê’Šş´-
+®%squid:RedundantThrowsDeclarationCheck8"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(«å¾òûÿÿÿÿ
+ksquid:S2095¢"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¾Âæ8Ê’Šş´-
+qsquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ˆÑœÂ8Ê’Šş´-
+vsquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(§°Ü‡ùÿÿÿÿ8Ê’Šş´-
+ksquid:S2095˜"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¾Âæ8Ê’Šş´-
+ksquid:S2095·"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¯8Ê’Šş´-
+ï%squid:RedundantThrowsDeclarationCheckœ"µRemove the declaration of thrown exception 'de.javawi.jstun.attribute.MessageAttributeParsingException' which is a subclass of 'de.javawi.jstun.attribute.MessageAttributeException'.(ˆÑœÂ8Ê’Šş´-
+±%squid:RedundantThrowsDeclarationCheckœ"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ˆÑœÂ8Ê’Šş´-
+usquid:S3776L"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¦À«úÿÿÿÿ8Ê’Šş´-
+ì%squid:RedundantThrowsDeclarationCheck8"µRemove the declaration of thrown exception 'de.javawi.jstun.attribute.MessageAttributeParsingException' which is a subclass of 'de.javawi.jstun.attribute.MessageAttributeException'.(«å¾òûÿÿÿÿ
+±%squid:RedundantThrowsDeclarationCheck’"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(§°Ü‡ùÿÿÿÿ8Ê’Šş´-
+¶%squid:RedundantThrowsDeclarationCheck’"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(§°Ü‡ùÿÿÿÿ8Ê’Šş´-
+¬%squid:RedundantThrowsDeclarationCheckŞ"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(ƒƒÒÆ8Ê’Šş´-
+±%squid:RedundantThrowsDeclarationCheckŞ"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ƒƒÒÆ8Ê’Šş´-
+qsquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ƒƒÒÆ8Ê’Šş´-
+©%squid:RedundantThrowsDeclarationCheck8"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(«å¾òûÿÿÿÿ
+¬%squid:RedundantThrowsDeclarationCheckœ"sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(ˆÑœÂ8Ê’Šş´-
+µ%squid:RedundantThrowsDeclarationCheckL"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(¦À«úÿÿÿÿ8Ê’Šş´-
+Rsquid:S1066@"/Merge this if statement with the enclosing one.(ƒºªşÿÿÿÿ8Ê’Šş´-
+–squid:S1192o"xDefine a constant instead of duplicating this literal "Message header contains an Errorcode message attribute." 4 times.(†ÜÏ 8Ê’Šş´-
+ô%squid:RedundantThrowsDeclarationCheck’"µRemove the declaration of thrown exception 'de.javawi.jstun.attribute.MessageAttributeParsingException' which is a subclass of 'de.javawi.jstun.attribute.MessageAttributeException'.(§°Ü‡ùÿÿÿÿ8Ê’Šş´-

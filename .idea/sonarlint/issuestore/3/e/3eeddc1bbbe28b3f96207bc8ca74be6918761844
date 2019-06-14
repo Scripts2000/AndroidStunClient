@@ -1,0 +1,13 @@
+
+bsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(ÄÇãû
+Esquid:S2140U")Use "java.util.Random.nextInt()" instead.(¬èêúúÿÿÿÿ
+Esquid:S2140Q")Use "java.util.Random.nextInt()" instead.(ş¼‘âÿÿÿÿÿ
+@squid:S2140P")Use "java.util.Random.nextInt()" instead.(Éñ›Á
+@squid:S2140R")Use "java.util.Random.nextInt()" instead.(ù±¡‹
+@squid:S2140O")Use "java.util.Random.nextInt()" instead.(³¿Ò˜
+psquid:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êñ¥¦
+@squid:S2140T")Use "java.util.Random.nextInt()" instead.(Ç”ç
+]squid:S1126b"AReplace this if-then-else statement by a single return statement.(¥Áÿúÿÿÿÿ
+Esquid:S2140V")Use "java.util.Random.nextInt()" instead.(îø†»şÿÿÿÿ
+Ysquid:HiddenFieldCheck›"6Rename "ma" which hides the field declared at line 45.(ÖİÂÙ
+Esquid:S2140S")Use "java.util.Random.nextInt()" instead.(ùÓÚåüÿÿÿÿ

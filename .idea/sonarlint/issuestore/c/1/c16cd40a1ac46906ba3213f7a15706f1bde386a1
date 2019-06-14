@@ -1,0 +1,6 @@
+
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(ÆúßÔþÿÿÿÿ
+]squid:S3457k"AFormat specifiers should be used instead of string concatenation.(óŒ»ûùÿÿÿÿ
+zsquid:S1488L"^Immediately return this expression instead of assigning it to the temporary variable "length".(åÍ¹Óûÿÿÿÿ
+isquid:ModifiersOrderCheckH"EReorder the modifiers to comply with the Java Language Specification.(ÒÊÞK
+Ssquid:S2629k"7Use the built-in formatting to construct this argument.(óŒ»ûùÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(ªÊÍ­
+lsquid:S1206n"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
+]squid:S1126p"AReplace this if-then-else statement by a single return statement.(µ¼ø“úÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªÊÍ­
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªÊÍ­
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªÊÍ­
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªÊÍ­

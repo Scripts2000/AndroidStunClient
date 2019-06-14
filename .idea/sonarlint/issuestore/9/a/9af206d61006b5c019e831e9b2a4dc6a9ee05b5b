@@ -1,0 +1,15 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ôˆì¯úÿÿÿÿ8Ò¶…‚µ-
+ squid:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã¾Ä¡8„ƒ»Ÿµ-
+tsquid:UselessImportCheck"DRemove this unused import 'io.netty.channel.ChannelOutboundHandler'.(ÃûÍûÿÿÿÿ8›òúœµ-
+nsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(—ðàýÿÿÿÿ8Ä°¤‚µ-
+vsquid:UselessImportCheck!"KRemove this unused import 'io.netty.handler.codec.http.HttpRequestEncoder'.(ÊÏ…8¥«ñžµ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°Ó¥ýÿÿÿÿ8Ò¶…‚µ-
+wsquid:UselessImportCheck""LRemove this unused import 'io.netty.handler.codec.http.HttpResponseDecoder'.(‚Å‹ß8„ƒ»Ÿµ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÊÁÔüÿÿÿÿ8Ò¶…‚µ-
+jsquid:UselessImportCheck":Remove this unused import 'io.netty.buffer.ByteBufHolder'.(˜Âûÿÿÿÿ8®äã¤µ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘—Éüÿÿÿÿ8Ò¶…‚µ-
+Bsquid:S1148 "#Use a logger to log this exception.(›ÈüÎ8Ýò–¦µ-
+dsquid:S2142]"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ò¶…‚µ-
+Lsquid:S1185¶"(Remove this method to simply inherit it.(¯Åøºùÿÿÿÿ8á‹ÿ¥µ-
+rsquid:UselessImportCheck "HRemove this unused import 'io.netty.handler.codec.MessageToByteEncoder'.(×’¯*8È°œµ-

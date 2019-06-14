@@ -1,0 +1,124 @@
+六月 13, 2019 9:25:53 上午 de.javawi.jstun.test.DiscoveryTest test1
+详细: Test 1: Binding Request sent.
+六月 13, 2019 9:25:54 上午 de.javawi.jstun.test.DiscoveryTest test1
+详细: Test 1: Socket timeout while receiving the response.
+六月 13, 2019 9:25:57 上午 de.javawi.jstun.test.DiscoveryTest test1
+详细: Test 1: Binding Request sent.
+六月 13, 2019 9:25:58 上午 de.javawi.jstun.test.DiscoveryTest test1
+详细: Test 1: Socket timeout while receiving the response.
+六月 13, 2019 9:26:01 上午 de.javawi.jstun.test.DiscoveryTest test1
+详细: Test 1: Binding Request sent.
+六月 13, 2019 9:26:03 上午 de.javawi.jstun.test.DiscoveryTest test1
+详细: Test 1: Socket timeout while receiving the response.
+六月 13, 2019 9:26:07 上午 de.javawi.jstun.test.DiscoveryTest test1
+详细: Test 1: Binding Request sent.
+六月 13, 2019 9:26:07 上午 de.javawi.jstun.header.MessageHeader parseHeader
+详细: Binding Response received.
+六月 13, 2019 9:26:07 上午 de.javawi.jstun.attribute.MappedAddress parse
+详细: Message Attribute: Mapped Address parsed: Address 121.8.148.66, Port 50667.
+六月 13, 2019 9:26:07 上午 de.javawi.jstun.attribute.SourceAddress parse
+详细: Message Attribute: Source Address parsed: Address 216.93.246.18, Port 3478.
+六月 13, 2019 9:26:07 上午 de.javawi.jstun.attribute.ChangedAddress parse
+详细: Message Attribute: Changed Address parsed: Address 216.93.246.15, Port 3479.
+六月 13, 2019 9:26:07 上午 de.javawi.jstun.attribute.MessageAttribute parseCommonHeader
+详细: MessageAttribute with type 32800 unkown.
+六月 13, 2019 9:26:07 上午 de.javawi.jstun.attribute.MessageAttribute parseCommonHeader
+详细: MessageAttribute with type 32802 unkown.
+六月 13, 2019 9:26:07 上午 de.javawi.jstun.test.DiscoveryTest test1
+详细: Node is natted.
+六月 13, 2019 9:28:20 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Binding Request sent.
+六月 13, 2019 9:28:21 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Socket timeout while receiving the response.
+六月 13, 2019 9:28:22 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Binding Request sent.
+六月 13, 2019 9:28:23 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Socket timeout while receiving the response.
+六月 13, 2019 9:28:25 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Binding Request sent.
+六月 13, 2019 9:28:27 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Socket timeout while receiving the response.
+六月 13, 2019 9:28:27 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Binding Request sent.
+六月 13, 2019 9:28:28 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Socket timeout while receiving the response.
+六月 13, 2019 9:28:28 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Binding Request sent.
+六月 13, 2019 9:28:30 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Socket timeout while receiving the response.
+六月 13, 2019 9:28:30 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Binding Request sent.
+六月 13, 2019 9:28:32 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Socket timeout while receiving the response.
+六月 13, 2019 9:28:32 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Binding Request sent.
+六月 13, 2019 9:28:33 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Socket timeout while receiving the response.
+六月 13, 2019 9:28:33 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Binding Request sent.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.test.DiscoveryTest test2
+详细: Test 2: Socket timeout while receiving the response. Maximum retry limit exceed. Give up.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.test.DiscoveryTest test1Redo
+详细: Test 1 redo with changed address: Binding Request sent.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.test.DiscoveryTest test1Redo
+详细: Test 1 redo with changed address: Socket timeout while receiving the response.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.test.DiscoveryTest test1Redo
+详细: Test 1 redo with changed address: Binding Request sent.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.header.MessageHeader parseHeader
+详细: Binding Response received.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.attribute.MappedAddress parse
+详细: Message Attribute: Mapped Address parsed: Address 121.8.148.66, Port 50667.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.attribute.SourceAddress parse
+详细: Message Attribute: Source Address parsed: Address 216.93.246.15, Port 3479.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.attribute.ChangedAddress parse
+详细: Message Attribute: Changed Address parsed: Address 216.93.246.18, Port 3478.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.attribute.MessageAttribute parseCommonHeader
+详细: MessageAttribute with type 32800 unkown.
+六月 13, 2019 9:28:35 上午 de.javawi.jstun.attribute.MessageAttribute parseCommonHeader
+详细: MessageAttribute with type 32802 unkown.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.header.MessageHeader parseHeader
+详细: Binding Response received.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.attribute.MappedAddress parse
+详细: Message Attribute: Mapped Address parsed: Address 121.8.148.66, Port 50667.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.attribute.SourceAddress parse
+详细: Message Attribute: Source Address parsed: Address 216.93.246.15, Port 3479.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.attribute.ChangedAddress parse
+详细: Message Attribute: Changed Address parsed: Address 216.93.246.18, Port 3478.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.attribute.MessageAttribute parseCommonHeader
+详细: MessageAttribute with type 32800 unkown.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.attribute.MessageAttribute parseCommonHeader
+详细: MessageAttribute with type 32802 unkown.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Binding Request sent.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Socket timeout while receiving the response.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Binding Request sent.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Socket timeout while receiving the response.
+六月 13, 2019 9:28:36 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Binding Request sent.
+六月 13, 2019 9:28:38 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Socket timeout while receiving the response.
+六月 13, 2019 9:28:38 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Binding Request sent.
+六月 13, 2019 9:28:40 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Socket timeout while receiving the response.
+六月 13, 2019 9:28:40 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Binding Request sent.
+六月 13, 2019 9:28:41 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Socket timeout while receiving the response.
+六月 13, 2019 9:28:41 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Binding Request sent.
+六月 13, 2019 9:28:43 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Socket timeout while receiving the response.
+六月 13, 2019 9:28:43 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Binding Request sent.
+六月 13, 2019 9:28:45 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Socket timeout while receiving the response.
+六月 13, 2019 9:28:45 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Binding Request sent.
+六月 13, 2019 9:28:46 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Test 3: Socket timeout while receiving the response. Maximum retry limit exceed. Give up.
+六月 13, 2019 9:28:46 上午 de.javawi.jstun.test.DiscoveryTest test3
+详细: Node is behind a port restricted NAT.
